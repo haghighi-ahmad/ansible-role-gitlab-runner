@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   author: Ahmad Haghighi
+  role_name: gitlab_runner
   description: GitLab Runner
   license: AGPLv3
   min_ansible_version: 2.0
