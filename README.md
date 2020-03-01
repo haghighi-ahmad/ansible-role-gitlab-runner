@@ -2,7 +2,7 @@ GitLab Runner [![Build Status](https://api.travis-ci.org/riemers/ansible-gitlab-
 =============
 
 This role will install the [official GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner)
-(fork from haroldb) with updates. Needed something simple and working, this did the trick for me. Open for changes though.
+(fork from riemers) with some added fields. 
 
 Requirements
 ------------
@@ -77,7 +77,4 @@ gitlab_runner_runners:
 
 Contributors
 ------------
-Feel free to add your name to the readme if you make a PR. A full list of people from the PR's is [here](https://github.com/riemers/ansible-gitlab-runner/pulls?q=is%3Apr+is%3Aclosed)
-
-- Gastrofix for adding Mac Support
-- Matthias Schmieder for adding Windows Support
+This is a Fork of https://github.com/riemers/ansible-gitlab-runner
