@@ -9,4 +9,4 @@
     paths:
       - 'vars'
   roles:
-    - ansible-gitlab-runner
+    - ansible-role-gitlab-runner
